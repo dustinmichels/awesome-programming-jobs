@@ -32,3 +32,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) and other 
 ## Smart Cities :vertical_traffic_light:
 
 * **[Sidewalk Labs](https://www.sidewalklabs.com/)** : **New York, NY** - Reimagining cities to improve quality of life.
+* **[Rapid Flow](http://rapidflowtech.com/)** : **Pittsburgh, PA** - Innovative technologies for intelligent transportation
