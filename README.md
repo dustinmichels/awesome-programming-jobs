@@ -16,6 +16,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) and other 
 
 - **[WattTime](http://watttime.org/)** : **Oakland, California** - Connecting clean energy to the internet of things.
 - **[National Renewable Energy Lab](https://www.nrel.gov/)** : **Golden, CO** - The only federal laboratory dedicated to research, development, commercialization, and deployment of renewable energy and energy efficiency technologies.
+- **[3Degrees](https://3degreesinc.com/)** : **San Francisco, California** - "We help hundreds of organizations incorporate clean energy and greenhouse gas emission reduction strategies into their business operations."
 
 ## Smart Agriculture :seedling:
 
