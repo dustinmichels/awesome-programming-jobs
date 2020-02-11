@@ -27,3 +27,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) and other 
 
 - **[Sidewalk Labs](https://www.sidewalklabs.com/)** : **New York, NY** - Reimagining cities to improve quality of life.
 - **[Rapid Flow](http://rapidflowtech.com/)** : **Pittsburgh, PA** - Innovative technologies for intelligent transportation
+- **[Polysync](https://www.polysync.io/)** : **Portland, OR** - Safety and security for autonomous cars.
+- **[Dymaptic](https://dymaptic.com/)** : **Portland, OR** - AI for cycling navigation.
+- **[Remix](https://www.remix.com/)** : **San Francisco, CA** - Understand, plan, and coordinate urban mobility.
